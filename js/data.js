@@ -239,7 +239,7 @@ const skillBaseData = {
 const itemBaseData = {
      
     "Homeless": { name: "Homeless", expense: 0, effect: 1000000000000, heromult: 2, heroeffect: 2e6 },
-    "Tent": { name: "Tent", expense: 15, effect: 1.4, heromult: 2, heroeffect: 2e7 },
+    "Tent": { name: "Tent", expense: 15, effect: 10.4, heromult: 40, heroeffect: 2e7 },
 
     "Wooden Hut": { name: "Wooden Hut", expense: 100, effect: 2, heromult: 3, heroeffect: 2e8 },
     "Cottage": { name: "Cottage", expense: 750, effect: 3.5, heromult: 3, heroeffect: 2e9 },
